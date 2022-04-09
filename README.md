@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js & Python
 - 📫 How to reach me Discord
 
-Join my discord support server for support or to contact me: https://discord.gg/Nb4QGk8EgW
+Join my discord support server for support or to contact me! Click [here](https://discord.gg/Nb4QGk8EgW) to join!
 <!---
 TopClips/TopClips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
